@@ -1,4 +1,4 @@
-# Bibek shah **(Bikii)** &nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="60">
+# Bibek shah **(Bikki)** &nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="60">
 
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
@@ -8,10 +8,7 @@
 
 <p>
 <pre>
-    [Bash lover]💘|Mr.Robot|🧑‍💻️
-      "Wake up to reality!"🌎
-         💫️|Naruto|💫️
-        ~जय श्री कृष्णा(ॐ)🌻️🦚️
+   Newbie here
 </pre> 
 </p>
 <br>
