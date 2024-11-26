@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibek Shah</h1>
-<h3 align="center">A passionate computer science student from Nepal</h3>
+<h3 align="center">A passionate Data science student</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekshah123&label=Profile%20views&color=0e75b6&style=flat" alt="bibekshah123" /> </p>
