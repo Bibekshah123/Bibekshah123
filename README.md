@@ -5,11 +5,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bibekshah123&label=Profile%20views&color=0e75b6&style=flat" alt="bibekshah123" /> </p>
 
 ---
+<h2 align="center">
 🌟 **About Me** 
 
 - 🌱 I’m currently learning **Computer and Data Science**
 - 📫 How to reach me **bibekshah995@gmail.com**
 ---
+</h2>
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
