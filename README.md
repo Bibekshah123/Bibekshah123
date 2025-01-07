@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data science student</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekshah123&label=Profile%20views&color=0e75b6&style=flat" alt="bibekshah123" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bibekshah123&label=Profile%20views&color=0e75b6&style=flat" alt="bibekshah123" /> </p>
 
 - 🌱 I’m currently learning **Computer and Data Science**
 
