@@ -5,13 +5,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bibekshah123&label=Profile%20views&color=0e75b6&style=flat" alt="bibekshah123" /> </p>
 
 ---
-<h2 align="center">
+<h3 align="center">
 🌟 **About Me** 
 
 - 🌱 I’m currently learning **Computer and Data Science**
 - 📫 How to reach me **bibekshah995@gmail.com**
 ---
-</h2>
+</h3>
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
@@ -24,6 +24,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibekshah123&show_icons=true&locale=en&layout=compact" alt="bibekshah123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibekshah123&show_icons=true&locale=en" alt="bibekshah123" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibekshah123&show_icons=true&locale=en" alt="bibekshah123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibekshah123&" alt="bibekshah123" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibekshah123&" alt="bibekshah123" /></p>
