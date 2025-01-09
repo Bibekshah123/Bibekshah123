@@ -30,4 +30,3 @@ align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="no
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibekshah123&show_icons=true&locale=en" alt="bibekshah123" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibekshah123&" alt="bibekshah123" /></p>
