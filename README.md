@@ -8,7 +8,7 @@
 <h3 align="center">
 🌟 **About Me** 
 
-- 🌱 I’m currently learning **Computer and Data Science**
+- 🌱 I’m currently studying **Data Science**
 - 📫 How to reach me **bibekshah995@gmail.com**
 ---
 </h3>
