@@ -1,32 +1,47 @@
-<h1 align="center">Hi 👋, I'm Bibek Shah</h1>
-<h3 align="center">A passionate Data science student</h3>
+# Hi 👋, I'm Bibek Shah
 
+## A passionate Data Science student
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bibekshah123&label=Profile%20views&color=0e75b6&style=flat" alt="bibekshah123" /> </p>
+[![Profile views](https://komarev.com/ghpvc/?username=bibekshah123&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/bibekshah123)
 
 ---
-<h3 align="center">
-🌟 **About Me** 
 
-- 🌱 I’m currently studying **Data Science**
-- 📫 How to reach me **bibekshah995@gmail.com**
+## 🌟 About Me
+
+- 🌱 I’m currently studying **Data Science** .
+- 📚 I'm passionate about **Data Science**, **Machine Learning**, and **Backend Developer**.
+- 💻 I'm actively working with **Python**, **Django**, **Data Analysis**, **AI**, and **ML**.
+- 📫 How to reach me: **bibekshah995@gmail.com**
+
 ---
-</h3>
 
-<h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/bibekshah1234/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibek shah" height="30" width="40" />
-  </a>
-</p>
+## 🌐 Connect with me:
 
-<h3 align="center">Languages and Tools:</h3>
-<p 
-align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/bibekshah1234/)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bibekshah123&show_icons=true&locale=en&layout=compact" alt="bibekshah123" /></p>
+---
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibekshah123&show_icons=true&locale=en" alt="bibekshah123" /></p>
+## 💻 Languages and Tools:
 
+- 🐍 **Python** ![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+- 🌐 **HTML5** ![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+- 🎨 **CSS3** ![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+- ⚙️ **Django** ![django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg)
+- 🔢 **SQL** ![sql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+- 💾 **PostgreSQL** ![postgresql](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
+- ⚡ **Machine Learning** ![ml](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg)
+- 📦 **Git/GitHub** ![git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
+- 💻 **Linux** ![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+- 📊 **Data Visualization** ![data-visualization](https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg)
+- 📈 **Data Science Tools** ![jupyter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg)
+- 🛠️ **Bash** ![bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg)
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bibekshah123&show_icons=true&locale=en&layout=compact)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibekshah123&show_icons=true&locale=en)
+
+---
