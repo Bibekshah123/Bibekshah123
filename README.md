@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibek Shah</h1>
-<h3 align="center">Django Developer | Data Science Student</h3>
+<h3 align="center">Django Developer | Python | Machine Learning</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=bibekshah123&label=Profile%20views&color=0e75b6&style=flat" alt="bibekshah123" /> 
@@ -12,10 +12,9 @@
 
 ### 🚀 **About Me**
 
-- 🔭 I'm currently working on **Django web applications and data science projects**
-- 🌱 Expanding my knowledge in **Django REST Framework, PostgreSQL, and cloud deployment**
-- 👯 Looking to collaborate on **open-source Django projects**
-- 💬 Ask me about **Python, Django, or data analysis**
+- 🔭 I'm currently working on **Django web applications**
+- 🌱 Expanding my knowledge in **Django REST Framework, PostgreSQL, and APIs**
+- 💬 Ask me about **Python, Django, or data Science**
 - 📫 How to reach me: **bibekshah995@gmail.com**
 - ⚡ Fun fact: **I automate boring tasks for fun**
 
@@ -50,7 +49,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
 </div>
@@ -70,7 +68,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
 </div>
 
 ---
