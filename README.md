@@ -12,8 +12,8 @@
 
 ### 🚀 **About Me**
 
-- 🔭 I'm currently working on **Django web applications**
-- 🌱 Expanding my knowledge in **Django REST Framework, PostgreSQL, and APIs**
+- 🔭 I'm always hidden like Backend System hidden
+- 🌱 Expanding my knowledge in **Django, Django RESTFramework, PostgreSQL, and APIs**
 - 💬 Ask me about **Python, Django, or data Science**
 - 📫 How to reach me: **bibekshah995@gmail.com**
 - ⚡ Fun fact: **I automate boring tasks for fun**
