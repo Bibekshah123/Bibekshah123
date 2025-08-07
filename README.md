@@ -12,7 +12,7 @@
 
 ### 🚀 **About Me**
 
-- 🔭 I'm always hidden like Backend System hidden
+- 🔭 I'm invisible like **Backend**
 - 🌱 Expanding my knowledge in **Django, Django RESTFramework, PostgreSQL, and APIs**
 - 💬 Ask me about **Python, Django, or data Science**
 - 📫 How to reach me: **bibekshah995@gmail.com**
