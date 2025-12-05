@@ -13,7 +13,7 @@
 ### 🚀 **About Me**
 
 - 🔭 I'm invisible like **Backend**
-- 🌱 Expanding my knowledge in **Django, Django RESTFramework, PostgreSQL, and APIs**
+- 🌱 Expanding my knowledge in **Backend Development**
 - 💬 Ask me about **Python, Django, or data Science**
 - 📫 How to reach me: **bibekshah995@gmail.com**
 - ⚡ Fun fact: **I automate boring tasks for fun**
