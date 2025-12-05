@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Bibek Shah</h1>
 <h3 align="left">Python | Django | Backend</h3>
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bibekshah123&label=Profile%20views&color=0e75b6&style=flat" alt="bibekshah123" /> 
   <a href="https://github.com/bibekshah123?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bibekshah123?color=green&logo=github">
@@ -41,6 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekshah123&layout=compact&theme=radical" alt="Top Languages" />
 </p> -->
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibekshah123&theme=radical" alt="GitHub Streak" />
 </p>
